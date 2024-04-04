@@ -1,4 +1,3 @@
-// TODO: this file! :)
 let numbersBank = [];
 let oddNumbers = [];
 let evenNumbers = [];
